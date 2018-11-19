@@ -1,0 +1,13 @@
+1 AnGiang 
+2 BacLieu
+3 BenTre  
+4 CaMau 
+5 CanTho 
+6 DongThap 
+7 HauGiang 
+8 KienGiang 
+9 LongAn 
+10 SocTrang 
+11 TienGiang 
+12 TraVinh 
+13 VinhLong 
